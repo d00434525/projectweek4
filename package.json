@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "cool project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d00434525/projectweek4.git"
+  },
+  "author": "Lincoln",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d00434525/projectweek4/issues"
+  },
+  "homepage": "https://github.com/d00434525/projectweek4#readme"
+}
